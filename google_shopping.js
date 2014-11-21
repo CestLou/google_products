@@ -1,6 +1,6 @@
 var data = require("./products.json")
 
-// Write your solutions below
+// // Write your solutions below
 
 //~~~first problem~~~
 for (var key in data["items"]){
